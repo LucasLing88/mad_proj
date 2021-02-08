@@ -19,8 +19,8 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp>{
-  String title = 'Login';
-  int index = 1;
+  String title = 'Home';
+  int index = 2;
   List<Widget> list = [Register(), Login(), Home(), About(), Profile(), Search(), ViewBuses()];
 
   @override
