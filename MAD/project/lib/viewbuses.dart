@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'businfo.dart';
 
 class ViewBuses extends StatelessWidget{
   @override
@@ -11,7 +12,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-                
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -26,7 +30,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -41,7 +48,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -56,7 +66,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -71,7 +84,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -86,7 +102,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -101,7 +120,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -116,7 +138,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -131,7 +156,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -146,7 +174,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -161,7 +192,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
@@ -176,7 +210,10 @@ class ViewBuses extends StatelessWidget{
           Card(
             child: new InkWell(
               onTap: () {
-
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BusInfo()),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
